@@ -44,7 +44,7 @@ outputs/
   README.md
   <実験群>/<条件>/       実験群ごとにフォルダを分け、その下に条件ごとのフォルダを置く
     results/               結果CSV
-    (必要に応じて protected/, masks/, listening/ など実験固有のフォルダ)
+    (必要に応じて実験固有のフォルダ)
   tables/                総括表: NN_<名前>.csv と NN_<名前>.png (NN は通し番号)
   logs/<実験>/           実行ログ
 ```
